@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <rect width="240" height="240" fill="#f7f2e7"/>
+  <rect x="10" y="10" width="220" height="220" fill="none" stroke="#17150f" stroke-width="2" stroke-dasharray="6 6"/>
+  <g fill="#17150f">
+    <rect x="30" y="30" width="50" height="50"/><rect x="38" y="38" width="34" height="34" fill="#f7f2e7"/><rect x="45" y="45" width="20" height="20"/>
+    <rect x="160" y="30" width="50" height="50"/><rect x="168" y="38" width="34" height="34" fill="#f7f2e7"/><rect x="175" y="45" width="20" height="20"/>
+    <rect x="30" y="160" width="50" height="50"/><rect x="38" y="168" width="34" height="34" fill="#f7f2e7"/><rect x="45" y="175" width="20" height="20"/>
+  </g>
+  <text x="120" y="118" text-anchor="middle" font-family="serif" font-size="15" fill="#6b6457">替换为你的</text>
+  <text x="120" y="140" text-anchor="middle" font-family="serif" font-size="15" fill="#6b6457">微信二维码</text>
+</svg>

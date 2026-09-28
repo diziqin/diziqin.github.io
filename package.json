@@ -1,0 +1,26 @@
+{
+  "name": "xborn-site",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource/cormorant-garamond": "^5.3.0",
+    "@fontsource/ma-shan-zheng": "^5.3.1",
+    "@fontsource/noto-serif-sc": "^5.3.0",
+    "@fontsource/noto-serif-tc": "^5.3.0",
+    "@fontsource/zhi-mang-xing": "^5.3.0",
+    "gsap": "^3.15.0",
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "@types/three": "^0.186.0",
+    "hanzi-writer-data": "^2.0.1",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.1"
+  }
+}
